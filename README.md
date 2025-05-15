@@ -2,7 +2,7 @@
 
 PyCharm 및 VS Code의 기능을 활용하여 효과적으로 코딩하는 방법을 시연하는 실습입니다.
 
-## Setup
+## 설정
 
 go 스크립트를 실행하여 필수 의존성을 설치합니다.
 해당 스크립트는 Python 3와 Poetry를 설치하고, 호스트에 가상 환경(Virtual Environment)을 생성합니다.
